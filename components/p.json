@@ -1,0 +1,107 @@
+{
+  "tienda": "TechStore",
+  "moneda": "USD",
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Laptop HP Pavilion 15",
+      "marca": "HP",
+      "categoria": "Laptop",
+      "precio": 850.00,
+      "stock": 12,
+      "especificaciones": {
+        "procesador": "Intel Core i5 12th Gen",
+        "ram": "16GB DDR4",
+        "almacenamiento": "512GB SSD",
+        "pantalla": "15.6\" Full HD",
+        "sistema_operativo": "Windows 11"
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "Laptop Lenovo IdeaPad 3",
+      "marca": "Lenovo",
+      "categoria": "Laptop",
+      "precio": 650.00,
+      "stock": 8,
+      "especificaciones": {
+        "procesador": "AMD Ryzen 5 5500U",
+        "ram": "8GB DDR4",
+        "almacenamiento": "256GB SSD",
+        "pantalla": "14\" Full HD",
+        "sistema_operativo": "Windows 11"
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "PC Gamer Xtreme",
+      "marca": "XtremeTech",
+      "categoria": "Desktop",
+      "precio": 1200.00,
+      "stock": 5,
+      "especificaciones": {
+        "procesador": "Intel Core i7 13th Gen",
+        "ram": "32GB DDR5",
+        "almacenamiento": "1TB SSD",
+        "tarjeta_grafica": "NVIDIA RTX 4060",
+        "sistema_operativo": "Windows 11 Pro"
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "Monitor Samsung 24\" LED",
+      "marca": "Samsung",
+      "categoria": "Monitor",
+      "precio": 180.00,
+      "stock": 20,
+      "especificaciones": {
+        "resolucion": "1920x1080",
+        "frecuencia": "75Hz",
+        "tipo_panel": "IPS",
+        "conectividad": ["HDMI", "VGA"]
+      }
+    },
+    {
+      "id": 5,
+      "nombre": "Teclado Mecánico Redragon K552",
+      "marca": "Redragon",
+      "categoria": "Accesorio",
+      "precio": 45.00,
+      "stock": 30,
+      "especificaciones": {
+        "tipo": "Mecánico",
+        "switch": "Outemu Blue",
+        "iluminacion": "RGB",
+        "conexion": "USB"
+      }
+    },
+    {
+      "id": 6,
+      "nombre": "Mouse Logitech G203",
+      "marca": "Logitech",
+      "categoria": "Accesorio",
+      "precio": 25.00,
+      "stock": 25,
+      "especificaciones": {
+        "dpi": "8000 DPI",
+        "botones": 6,
+        "conexion": "USB",
+        "iluminacion": "RGB"
+      }
+    },
+    {
+      "id": 7,
+      "nombre": "Disco SSD Kingston 1TB",
+      "marca": "Kingston",
+      "categoria": "Componente",
+      "precio": 95.00,
+      "stock": 18,
+      "especificaciones": {
+        "tipo": "SSD",
+        "capacidad": "1TB",
+        "interfaz": "SATA III",
+        "velocidad_lectura": "560MB/s"
+      }
+    }
+  ]
+}
